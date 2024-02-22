@@ -1,0 +1,38 @@
+<html>
+<head>
+<title></title>
+</head>
+<body>
+<table width="650" border="2" bordercolor="red" align="center" bgcolor="cyan" height="500">
+
+<tr>
+
+<td>send Message✉</td>
+<td><a href="mail">send Message✉</a></td>
+</tr>
+
+
+
+
+<tr>
+
+<td>Make call 📞</td>
+<td><a href="mail">Make call✉</a></td>
+</tr>
+
+<tr>
+
+<td>open Whattsapp</td>
+<td><a href="mail">chate WA</a></td>
+</tr>
+
+<tr>
+
+<td>Downlode file</td>
+<td><a href="mail">Downlode file</a></td>
+</tr>
+
+
+</table>
+</body>
+</html>
